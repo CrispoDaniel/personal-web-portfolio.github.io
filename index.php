@@ -21,7 +21,6 @@
   <link href="icofont.min.css" rel="stylesheet">
   <link href="boxicons.min.css" rel="stylesheet">
   <link href="venobox.css" rel="stylesheet">
-  <link href="owl.carousel.min.css" rel="stylesheet">
   <link href="aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
